@@ -10,11 +10,11 @@ With the war, the energy and economic crises and a big number of new people in t
 The community spaces that appeared in 2022 showed their efficiency and we are looking for support to finish building and renovation works in the common houses that are already partially done. These are 6
 locations that have done calculations of their needs
 
-Ecovillage “Zeleni Kruchi”
-Ecovillage “Omelyanivka”
-Ecovillage “Settlement of masters”
-Ecovillage “Charivne”
-Ecovillage “Rosychi”
-Ecovillage “Svitankove”
+1. Ecovillage “Zeleni Kruchi”
+2. Ecovillage “Omelyanivka”
+3. Ecovillage “Settlement of masters”
+4. Ecovillage “Charivne”
+5. Ecovillage “Rosychi”
+6. Ecovillage “Svitankove”
 
 
