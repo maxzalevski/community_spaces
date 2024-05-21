@@ -15,6 +15,8 @@ locations that have done calculations of their needs
 4. Ecovillage “Charivne”
 5. Ecovillage “Rosychi”
 6. Ecovillage “Svitankove”
+7. Busha
+8. Radaria (Kuhari)
 
 ## Issues
 [Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
