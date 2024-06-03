@@ -10,15 +10,15 @@ The community spaces that appeared in 2022 showed their efficiency and we are lo
 locations that have done calculations of their needs
 
 1. Ecovillage “Zeleni Kruchi”
-2. Ecovillage Vasylivka [children's space](https://pomistya.club/proekty/66-eko-prostir-dlya-ditei-ta-doroslih/)
-3. Ecovillage “Settlement of masters”
-4. Ecovillage “Charivne” [fundraising here ukr](https://pomistya.club/proekty/68-spilnii-prostir-poselenya-charivne/)
+2. Ecovillage “Omelanivka”
+3. Ecovillage “Charivne” [fundraising here ukr](https://pomistya.club/proekty/68-spilnii-prostir-poselenya-charivne/)
 5. Ecovillage “Rosychi”
-6. Ecovillage “Svitankove”[fundraising here ukr](https://pomistya.club/proekty/67-zbir-koshtiv-na-remont-gostovogo-budinku/)
-7. Busha
-8. Radaria (Kuhari)
-9. Byshkyn [Equipping the ‘Good Workshop’ community space](https://pomistya.club/proekty/62-dobra-maisternya/)
-10. Salyntsi [fundrasing](https://pomistya.club/proekty/63-sanvuzol-ta-besidka-dlya-vilnogo-prostoru/)
+6. Ecovillage Vasylivka [children's space](https://pomistya.club/proekty/66-eko-prostir-dlya-ditei-ta-doroslih/)
+7. Ecovillage “Svitankove”[fundraising here ukr](https://pomistya.club/proekty/67-zbir-koshtiv-na-remont-gostovogo-budinku/)
+8. Busha
+9. Radaria (Kuhari)
+10. Byshkyn [Equipping the ‘Good Workshop’ community space](https://pomistya.club/proekty/62-dobra-maisternya/)
+11. Salyntsi [fundrasing](https://pomistya.club/proekty/63-sanvuzol-ta-besidka-dlya-vilnogo-prostoru/)
 
 ## Issues
 [Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
