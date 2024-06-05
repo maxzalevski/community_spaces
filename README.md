@@ -20,6 +20,8 @@ locations that have done calculations of their needs
 10. Byshkyn [Equipping the ‘Good Workshop’ community space](https://pomistya.club/proekty/62-dobra-maisternya/)
 11. Salyntsi [fundrasing](https://pomistya.club/proekty/63-sanvuzol-ta-besidka-dlya-vilnogo-prostoru/)
 12. Tepla Gora
+13. Baranivka
+14. Kazkove
 
 ## Issues
 [Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
