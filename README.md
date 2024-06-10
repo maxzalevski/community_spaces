@@ -22,6 +22,13 @@ locations that have done calculations of their needs
 12. Tepla Gora
 13. Baranivka
 14. Kazkove
+15. Dzin Space
+16. Ozarinnya
+17. Kupelia
+18. Misto Sontsya
+19. Nowyi Mayapur
+20. Goloka
+
 
 ## Issues
 [Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
