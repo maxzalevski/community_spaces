@@ -19,7 +19,7 @@ locations that have done calculations of their needs
 9. Radaria (Kuhari)
 10. Byshkyn [Equipping the ‘Good Workshop’ community space](https://pomistya.club/proekty/62-dobra-maisternya/)
 11. Salyntsi [fundrasing](https://pomistya.club/proekty/63-sanvuzol-ta-besidka-dlya-vilnogo-prostoru/)
-12. Tepla Gora
+12. Tepla Gora [Guidebook](https://teplagora.notion.site/Tepla-Gora-Guidebook-20bf89a04efd44e0af8fc55bdd8e588a)
 13. Baranivka
 14. Kazkove
 15. Dzin Space
