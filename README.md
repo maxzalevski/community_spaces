@@ -14,7 +14,7 @@ locations that have done calculations of their needs
 5. Ecovillage “Rosychi”
 6. Ecovillage Vasylivka [children's space](https://pomistya.club/proekty/66-eko-prostir-dlya-ditei-ta-doroslih/)
 7. Ecovillage “Svitankove”[fundraising here ukr](https://pomistya.club/proekty/67-zbir-koshtiv-na-remont-gostovogo-budinku/)
-8. Busha
+8. Busha (https://www.facebook.com/busha.toloka)
 9. Radaria (Kuhari)
 10. Byshkyn [Equipping the ‘Good Workshop’ community space](https://pomistya.club/proekty/62-dobra-maisternya/)
 11. Salyntsi [fundrasing](https://pomistya.club/proekty/63-sanvuzol-ta-besidka-dlya-vilnogo-prostoru/)
