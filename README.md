@@ -26,6 +26,7 @@ locations that have done calculations of their needs
 17. Kupelia
 18. Misto Sontsya
 19. Nowyi Mayapur
+20. Granidub Montessory school [fundrising](https://pomistya.club/proekty/74-shkola-ferma-montessori/)
 20. Goloka
 
 
