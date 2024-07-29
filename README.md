@@ -31,6 +31,7 @@ locations that have done calculations of their needs
 
 
 ## Issues
-[Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
-[New Ceramics Workshop at Creativity Homestead in Podillia](https://github.com/maxzalevski/community_spaces/issues/3)
+- [Busha common space opening](https://github.com/maxzalevski/community_spaces/issues/1)
+
+- [New Ceramics Workshop at Creativity Homestead in Podillia](https://github.com/maxzalevski/community_spaces/issues/3)
 
