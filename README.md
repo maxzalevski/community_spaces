@@ -1,6 +1,8 @@
 # Community spaces of Ecovillage network in Ukraine
 GEN Ukraine is a network of ecological communities in Ukraine, operating as an NGO. It has around 60 members. Since the beginning of the war it has run the project Green Road of Ecovillages: the ecological communities host refugees, renovate old houses, give shelter to abandoned animals, develop agriculture and new economical and social models.
 One of the main goals of our organisation now is the development of the community spaces: common houses, common kitchens, common greenhouses.
+<img width="685" alt="Снимок экрана 2024-08-01 в 17 06 18" src="https://github.com/user-attachments/assets/59abbd6a-40ba-46d7-bd4e-a5c8d27c0919">
+
 
  GEN Ukraine is an NGO and a network of ecological communities of Ukraine that counts around 60 members. Since the beginning of the war it has run the project [Green Road of Ecovillages ](https://genukraine.com.ua/index.php/uk/gen-ukraine/our-projects/zelena-doroha-ekoposelen) : the ecological communities host refugees, renovate old houses, give shelter to abandoned animals, develop agriculture and new economical and social models.
 One of the main goals of our organisation now is the development of the community spaces: common houses, common kitchens, common greenhouses.
