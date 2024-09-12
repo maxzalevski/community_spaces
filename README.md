@@ -25,7 +25,7 @@ locations that have done calculations of their needs
 14. Kazkove
 15. Dzin Space
 16. Ozarinnya
-17. Kupelia
+17. Kupelia [Continuation of the Renovation of the "Creative Homestead" Shared Space in Podillia](https://github.com/maxzalevski/community_spaces/issues/4)
 18. Misto Sontsya
 19. Nowyi Mayapur
 20. Granidub Montessory school [fundrising](https://pomistya.club/proekty/74-shkola-ferma-montessori/)
